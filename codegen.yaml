@@ -1,0 +1,10 @@
+overwrite: true
+schema: "./schema.graphql"
+documents: null
+config:
+  useIndexSignature: true
+  nonOptionalTypename: true
+generates:
+  bazel-out/darwin-fastbuild/bin/types.ts:
+    plugins:
+      - "typescript"

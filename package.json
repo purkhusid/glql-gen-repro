@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "dependencies": {
+    "@graphql-codegen/cli": "1.13.1",
+    "@graphql-codegen/typescript": "1.13.1",
+    "@graphql-codegen/typescript-resolvers": "1.13.1"
+  }
+}
